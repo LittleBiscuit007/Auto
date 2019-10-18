@@ -1,0 +1,18 @@
+1571121508386	geckodriver	INFO	geckodriver 0.21.0
+1571121508418	geckodriver	INFO	Listening on 127.0.0.1:42159
+1571121510372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Am7whurLueys"
+1571121517666	Marionette	INFO	Listening on port 2828
+1571121702203	geckodriver	INFO	geckodriver 0.21.0
+1571121702228	geckodriver	INFO	Listening on 127.0.0.1:53277
+1571121704089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dycWMb09a5li"
+1571121710372	Marionette	INFO	Listening on port 2828
+1571122304870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerbOFcU"
+1571122309924	Marionette	INFO	Listening on port 2828
+1571123201679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileitABlV"
+1571123202715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571123202715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571123202716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571123202716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571123208699	Marionette	INFO	Listening on port 37797
+1571123208965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571123215146	Marionette	INFO	Stopped listening on port 37797
